@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Random_Persontenz.aternos.me:62383",
+    "ip": "Random_Persontenz.aternos.me",
     "port": 62383,
-    "version": "26.1.2"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
